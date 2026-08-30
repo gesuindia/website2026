@@ -1,7 +1,7 @@
 ---
 title: "The ORBIT India Dataset: A Disability-First AI Dataset for Teachable-Object Recognisers" 
 date: 2026
-tags: ["AI","disability","artefacts"]
+tags: ["AI","disability","object-recognition","artefacts"]
 author: ["Gesu India, Martin Grayson, Cecily Morrison, Daniela Massiceti, Simon Robinson, Jennifer Pearson, Matt Jones"]
 description: "This research discusses the contextualisation of tools and protocols for AI dataset collection from the Global North to a Global South context."
 summary: "This research discusses the contextualisation of tools and protocols for AI dataset collection from the Global North to a Global South context."

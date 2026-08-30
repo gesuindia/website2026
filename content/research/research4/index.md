@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Experiences of Individuals Who are Blind or Low-Vision Using Object-Recognition Technologies in India" 
 date: 2026
-tags: ["AI","disability","artefacts"]
+tags: ["AI","disability","object-recognition"]
 author: ["Gesu India, Simon Robinson, Jennifer Pearson, Cecily Morrison, Matt Jones"]
 description: "This is a mixed-method research investigating the functional and social accessibility of various object-recognition apps in India."
 summary: "This is a mixed-method research investigating the functional and social accessibility of various object-recognition apps in India."
