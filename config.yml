@@ -11,22 +11,22 @@ taxonomies:
     tag: tags
 
 menu:
-    # main:
-    #     - name: Books
-    #       url: books/
-    #       weight: 5 
-    #     - name: Papers
-    #       url: papers/
-    #       weight: 2
-    #     - name: Courses
-    #       url: courses/
-    #       weight: 3
-    #     - name: Data
-    #       url: data/
-    #       weight: 4 
-    #     - name: Blog
-    #       url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-    #       weight: 6
+    main:
+        - name: Research
+          url: research/
+          weight: 5 
+        # - name: Papers
+        #   url: papers/
+        #   weight: 2
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
     description: "This website hosts research updates for Dr. Gesu India."
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["cv"]
+    MainSections: ["Research"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -55,7 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Gesu India
-          subtitle: "I am a computer scientist, particularly interested in human-computer interaction, responsible AI, and accessibility. I use mixed-methods in my research to cater to my endless fascination with how people and technologies continue to shape each other."
+          subtitle: "I am a computer scientist, particularly interested in human-computer interaction, responsible AI, and accessibility. 
+          I use mixed-methods in my research to cater to my endless fascination with how people and technologies continue to shape each other."
 
 
           imageUrl: "picture.jpeg"
@@ -63,7 +64,11 @@ params:
           imageHeight: 160
           buttons:
             - name: Research
-              url: cv.pdf
+              url: research/
+           # - name: CV
+           #    url: cv.pdf
+           # - name: Tags
+           #    url: tags/
 
     socialIcons:
       # - name: CV
